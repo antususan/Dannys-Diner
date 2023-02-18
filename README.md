@@ -17,11 +17,12 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ## **:dart: INSIGHTS GENERATED**
 From the analysis, I discover a few interesting insights that would be certainly useful for Danny.
-
-1.Customer B is the most frequent visitor with 6 visits in Jan 2021.
-2.Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
-3.Customer A and C loves ramen whereas Customer B seems to enjoy sushi, curry and ramen equally. 
-4.Customer A is the 1st member of Danny’s Diner and his first order is curry. Gotta fulfill his curry cravings!
-5.The last item ordered by Customers A and B before they became members are sushi and curry. Does it mean both of these items are the deciding factor? It must be really delicious for them to sign up as members!
-6.Before they became members, both Customers A and B spent $25 and $40.
-7.Throughout Jan 2021, their points for Customer A: 860, Customer B: 940 and Customer C: 360.
+ 
+ 1. Customer B is the most frequent visitor with 6 visits in Jan 2021.
+ 2. Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
+ 3. Customer A and C loves ramen whereas Customer B seems to enjoy sushi, curry and ramen equally. 
+ 4. Customer A is the 1st member of Danny’s Diner and his first order is curry. Gotta fulfill his curry cravings!
+ 5. The last item ordered by Customers A and B before they became members are sushi and curry. Does it mean both of these items are the deciding factor? It must be really delicious for them to sign up as members!
+ 6. Before they became members, both Customers A and B spent $25 and $40.
+ 7. Throughout Jan 2021, their points for Customer A: 860, Customer B: 940 and Customer C: 360.
+ 
