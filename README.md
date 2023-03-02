@@ -1,4 +1,5 @@
 # Dannys-Diner
+SQL Challenge Project-1
 In this particular repository tackling a case studies to generate insights using SQL so that the restaurant owner can take the fruitful decision
 # CASE-STUDY-8-WEEK-SQL-CHALLENGE
  > This repository contain my submission by solving Case studies on the **#8WEEKSQLCHALLENGE** given by [DANNY MA](https://www.linkedin.com/in/datawithdanny/).
